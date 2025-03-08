@@ -62,15 +62,3 @@ There is one folder and other files:
 
 ## Instructions<a name="instructions"></a>
 The plagiarism detection project which we will be working on is intended to be done using Amazon's SageMaker platform. In particular, it is assumed that we have a working notebook instance in which we can clone the plagiarism detection repository. We will clone the `https://github.com/udacity/ML_SageMaker_Studies` repository and then work on the project.
-
-
-## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
-
-<a name="license"></a>
-### License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<a name="acknowledgement"></a>
-### Acknowledgements
-
-This project was completed as part of the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). The dataset used in this project is [A Corpus of Plagiarised Short Answers](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html).
